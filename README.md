@@ -8,12 +8,13 @@ Since MeWe login page have recaptcha, we can only use our hand to by pass.
 
 [![example](https://media.giphy.com/media/4IZxKZGkUfHutOLH2e/giphy.gif "example")](mewesearcher.com "example")
 
-#Installation
-Step 1:
+
+# Installation
+## Step 1:
 ```javascript
 npm install
 ```
-Step 2:
+## Step 2:
 change to your mewe username and password (used for auto login) 
 ```javascript
 const C = {
@@ -24,12 +25,12 @@ const C = {
 
 > [DATA WILL ONLY BE STORED IN YOUR COMPUTER]
 
-Step 3:
+## Step 3:
 ```javascript
 npm run start
 ```
 
-Step 4: 
+## Step 4: 
 Your data will scraped data will be store to your main directory.
 
 
