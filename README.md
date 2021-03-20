@@ -1,6 +1,6 @@
 # mewe scraper
 Scraping MeWe group/page information by using nodejs and selenium-webdriver.
-Part of [mewesearch.com](http://mewesearch.com "mewesearch.com") feature.
+Part of [mewesearch.com](http://mewesearcher.com "mewesearcher.com") feature.
 
 Since MeWe login page have recaptcha, we can only use our hand to by pass.
 
